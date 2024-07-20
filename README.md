@@ -26,6 +26,8 @@ See the section about deployment for more information.
 npm run eject
 
 Note1: This is a one-way operation. Once you eject, you can't go back!
+
+
 Note2: You need two insatll axiso frist to display the output of the code ---> npm install axiso
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
